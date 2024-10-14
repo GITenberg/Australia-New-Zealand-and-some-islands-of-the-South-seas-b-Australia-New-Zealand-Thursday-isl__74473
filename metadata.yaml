@@ -1,0 +1,39 @@
+_repo: Australia-New-Zealand-and-some-islands-of-the-South-seas-b-Australia-New-Zealand-Thursday-isl__74473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Frank G. (Frank George)
+    alias: Carpenter, Frank George
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '56191'
+    url: http://www.gutenberg.org/2009/agents/56191
+    wikipedia: https://en.wikipedia.org/wiki/Frank_G._Carpenter
+description: ''
+gutenberg_issued: '2024-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74473'
+  lccn: '24010230'
+language: en
+pgterms:marc904: https://archive.org/details/australianewzeal00carp
+pgterms:marc905: 20220501114222carpenter
+pgterms:marc906: '1924'
+pgterms:marc907: us
+production_note: Alan, Peter Becker and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aGarden City :$bDoubleday, Page & Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Carpenter's world travels
+subjects:
+- !lcsh 'New Zealand -- Description and travel'
+- !lcsh 'Australia -- Description and travel'
+- !lcsh 'Polynesia -- Description and travel'
+- !lcc 'DU'
+- GITenberg
+title: 'Australia, New Zealand and some islands of the South seas : $b Australia,
+  New Zealand, Thursday island, the Samoas, New Guinea, the Fijis, and the Tongas'
+url: http://www.gutenberg.org/ebooks/74473
